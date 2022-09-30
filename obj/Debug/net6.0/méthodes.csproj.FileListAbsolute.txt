@@ -1,0 +1,15 @@
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\bin\Debug\net6.0\méthodes.exe
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\bin\Debug\net6.0\méthodes.deps.json
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\bin\Debug\net6.0\méthodes.runtimeconfig.json
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\bin\Debug\net6.0\méthodes.dll
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\bin\Debug\net6.0\méthodes.pdb
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.csproj.AssemblyReference.cache
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.AssemblyInfoInputs.cache
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.AssemblyInfo.cs
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.csproj.CoreCompileInputs.cache
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.dll
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\refint\méthodes.dll
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.pdb
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\méthodes.genruntimeconfig.cache
+C:\Users\lauri\OneDrive\Bureau\cegep\prog 1\LaboMethode\obj\Debug\net6.0\ref\méthodes.dll
